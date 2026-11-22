@@ -48,3 +48,7 @@ npm run dev            # abre http://localhost:3000
 ```
 
 La conexión a MySQL se configura al inicio de `api/index.js` (por defecto `root` sin contraseña en `localhost`).
+
+## Autor
+
+Luis Fabián Díaz Alvizuri · [GitHub](https://github.com/luisfabiandiaz) · [LinkedIn](https://www.linkedin.com/in/luisfabiandiaz)
